@@ -1,0 +1,29 @@
+ 1.  python is a general purpose,dynamic,high level and interpreted programing language.
+    it support object oriented programming apprroach to delvolep applications.
+    it is simple and easy to learn.
+      
+  key features
+  * easy to learn
+  * high level
+  * interpreted
+  * scripted
+  * dynamically typed
+ 
+ 2 list
+  list are mutable. they can be modified after creation. list are defined using
+  square bracket.
+  
+  * tuple
+    tuples are immutable.once created their content cannot be changed.using () bracket.
+ 3 == is using checking values are equal. is using identity comparison
+ 
+ 10 mutable in python canbe changed after they are created.
+    immutable objects cannot be changed after created.
+  
+ 12 == is used for equality comparison. != is used in equality comparison
+    x=5
+    y=10
+    if x==y:
+      print("x is equal to y")
+    if:x!=y:
+      print("x not equal to y")
